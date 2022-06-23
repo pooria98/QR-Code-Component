@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-bootstrap5-VzHm3F-9ll)
+- Live Site URL: [Live Site](https://pooria98.github.io/QR-Code-Component/)
 
 ### Built with
 
